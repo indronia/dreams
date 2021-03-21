@@ -1,0 +1,21 @@
+{
+  "name": "Definity Browser",
+  "version": "0.0.0+test",
+  "description": "The Definity Browser",
+  "main": "index.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinityBrowser/Definity.git"
+  },
+  "author": {
+    "name": "Definity Browser Team"
+  },
+  "contributors": [{"name":"jbmagination"},{"name":"sudocode1"}],
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/DefinityBrowser/Definity/issues"
+  },
+  "homepage": "https:/github.com/DefinityBrowser/Definity",
+  "devDependencies":{},"dependencies":{}
+}
