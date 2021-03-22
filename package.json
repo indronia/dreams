@@ -9,7 +9,7 @@
     "url": "git+https://github.com/DefinityBrowser/Definity.git"
   },
   "author": {
-    "name": "Definity Browser Team"
+    "name": "The Definity Authors"
   },
   "contributors": [{"name":"jbmagination"},{"name":"sudocode1"}],
   "license": "MPL-2.0",
