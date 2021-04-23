@@ -9,7 +9,7 @@ Welcome to **Definity Browser**. More information soon.
 
 ## Notices
 ### Source Work
-* **[brave/brave-core](https://github.com/brave/brave-core)** *package.json*
+A lot of this source code is from **[brave/brave-core](https://github.com/brave/brave-core)** and **[chromium/chromium](https://github.com/chromium/chromium)**!
 
 ### Legal Disclaimer
 We do not intend to cause personal damage, nor financial damage, towards any other browser or person.
